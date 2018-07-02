@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why did I decide to learn software development"
-date:       2018-07-01 18:10:26 +0000
+date:       2018-07-01 14:10:26 -0400
 permalink:  why_did_i_decide_to_learn_software_development
 ---
 
@@ -10,7 +10,7 @@ My intro to programming is a bit of a funny story - you see, I never meant to le
 
 At the start of my third year of high school, my timetable was complicated. A compulsory course I needed to take had a late start date. My guidance counselor needed me to be enrolled in any class until the compulsory course started. So I spoke with one of my favourite teachers and asked if I could be enrolled in his third period class just for two weeks. I promised to sit quietly, not make any fuss, and leave when the other course started up. 
 
-As it happened, his course was level two of programming in C++. Back in the early 2000's, learning to code was rather rare. I didn't know a thing about programming . This would have been problematic, since level one of C++ was a prerequisite, but my teacher and counselor made an exception since I had no intention of staying in the class.   
+As it happened, his course was level two of programming in C++. Back in the early 2000's, learning to code was rather rare. I didn't know a thing about programming. This would have been problematic, since level one of C++ was a prerequisite, but my teacher and counselor made an exception since I had no intention of staying in the class.   
 
 I still remember the first day I showed up to programming. My teacher was running late. The class door was locked, and a group of about 10 guys was standing out in the hallway. Some of them seemed disappointed that a girl was joining the class, but I assured them it was not my intention to ruin their club for very long. Haha, I suppose you can guess what happened - I broke all my promises. 
 
