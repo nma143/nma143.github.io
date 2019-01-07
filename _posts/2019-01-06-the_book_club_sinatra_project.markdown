@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Book Club Sinatra Project"
-date:       2019-01-07 00:32:06 +0000
+date:       2019-01-06 19:32:07 -0500
 permalink:  the_book_club_sinatra_project
 ---
 
