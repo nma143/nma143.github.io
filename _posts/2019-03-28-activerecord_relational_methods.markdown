@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ActiveRecord Relational Methods"
-date:       2019-03-29 02:43:53 +0000
+date:       2019-03-28 22:43:54 -0400
 permalink:  activerecord_relational_methods
 ---
 
